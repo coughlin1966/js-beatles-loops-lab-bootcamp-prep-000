@@ -38,4 +38,4 @@ while (parseInt(number) < 15)
 //n++
 return array1
  }
-iLoveTheBeatles(4)
+iLoveTheBeatles('4')
