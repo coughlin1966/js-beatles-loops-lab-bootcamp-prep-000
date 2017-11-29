@@ -30,7 +30,7 @@ johnLennonFacts()
 //array = []
 //var number = 0
 
- function iLoveTheBeatles(parseInt(number)) {
+ function iLoveTheBeatles(parseInt[number]) {
 var array1 = []
 do {array1.push("I love the Beatles!")}
 parseInt(number)++
