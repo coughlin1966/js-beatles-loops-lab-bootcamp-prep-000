@@ -35,7 +35,7 @@ var array1 = []
 do {
   x = array1.push("I love the Beatles!")}
 x++
-while (num < 15)
+while ( x < 15)
 //n++
 return array1
  }
