@@ -30,13 +30,13 @@ johnLennonFacts()
 //array = []
 //var number = 0
 
- function iLoveTheBeatles(x) {
+ function iLoveTheBeatles(i) {
 var array1 = []
 do {
   array1.push("I love the Beatles!")
-x++
+i++
 }
-while ( x < 15)
+while ( i < 15)
 //n++
 return array1
  }
