@@ -33,7 +33,7 @@ johnLennonFacts()
  function iLoveTheBeatles(x) {
 var array1 = []
 do {
-  x = array1.push("I love the Beatles!")
+  array1.push("I love the Beatles!")
 x++
 }
 while ( x < 15)
